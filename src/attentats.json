@@ -1,0 +1,169 @@
+[{
+  "date": "20160613",
+  "country": "France",
+  "deaths": "3",
+  "injuries": "0",
+  "type": "+"
+}, {
+  "date": "20160612",
+  "country": "États-Unis",
+  "deaths": "50",
+  "injuries": "53",
+  "type": "+"
+}, {
+  "date": "20160322",
+  "country": "Belgique",
+  "deaths": "32",
+  "injuries": "340",
+  "type": "+"
+}, {
+  "date": "20160319",
+  "country": "Turquie",
+  "deaths": "5",
+  "injuries": "36",
+  "type": "+"
+}, {
+  "date": "20160307",
+  "country": "Tunisie",
+  "deaths": "0",
+  "injuries": "0",
+  "type": "+"
+}, {
+  "date": "20160114",
+  "country": "Indonésie",
+  "deaths": "7",
+  "injuries": "0",
+  "type": "+"
+}, {
+  "date": "20160112",
+  "country": "Turquie",
+  "deaths": "12",
+  "injuries": "15",
+  "type": "+"
+}, {
+  "date": "20151124",
+  "country": "Tunisie",
+  "deaths": "12",
+  "injuries": "20",
+  "type": "+"
+}, {
+  "date": "20151113",
+  "country": "France",
+  "deaths": "130",
+  "injuries": "413",
+  "type": "+"
+}, {
+  "date": "20151031",
+  "country": "Égypte",
+  "deaths": "224",
+  "injuries": "0",
+  "type": "+"
+}, {
+  "date": "20151024",
+  "country": "Bangladesh",
+  "deaths": "1",
+  "injuries": "80",
+  "type": "+"
+}, {
+  "date": "20151010",
+  "country": "Turquie",
+  "deaths": "102",
+  "injuries": "~500",
+  "type": "+"
+}, {
+  "date": "20150720",
+  "country": "Turquie",
+  "deaths": "33",
+  "injuries": "~100",
+  "type": "+"
+}, {
+  "date": "20150719",
+  "country": "Bande de Gaza",
+  "deaths": "0",
+  "injuries": "0",
+  "type": "+"
+}, {
+  "date": "20150703",
+  "country": "Israël",
+  "deaths": "0",
+  "injuries": "0",
+  "type": "+"
+}, {
+  "date": "20150626",
+  "country": "Tunisie",
+  "deaths": "39",
+  "injuries": "39",
+  "type": "+"
+}, {
+  "date": "20150605",
+  "country": "Turquie",
+  "deaths": "2",
+  "injuries": "100",
+  "type": "?"
+}, {
+  "date": "20150503",
+  "country": "États-Unis",
+  "deaths": "2",
+  "injuries": "1",
+  "type": "+"
+}, {
+  "date": "20150418",
+  "country": "Afghanistan",
+  "deaths": "32",
+  "injuries": "~100",
+  "type": "+"
+}, {
+  "date": "20150320",
+  "country": "Yemen",
+  "deaths": "142",
+  "injuries": "345",
+  "type": "+"
+}, {
+  "date": "20150318",
+  "country": "Tunisie",
+  "deaths": "24",
+  "injuries": "45",
+  "type": "+"
+}, {
+  "date": "20150215",
+  "country": "Danemark",
+  "deaths": "1",
+  "injuries": "2",
+  "type": "+"
+}, {
+  "date": "20150214",
+  "country": "Danemark",
+  "deaths": "1",
+  "injuries": "3",
+  "type": "+"
+}, {
+  "date": "20150109",
+  "country": "France",
+  "deaths": "5",
+  "injuries": "9",
+  "type": "+"
+}, {
+  "date": "20150107",
+  "country": "France",
+  "deaths": "12",
+  "injuries": "11",
+  "type": "+"
+}, {
+  "date": "20141215",
+  "country": "Australie",
+  "deaths": "3",
+  "injuries": "4",
+  "type": "+"
+}, {
+  "date": "20141022",
+  "country": "Canada",
+  "deaths": "2",
+  "injuries": "3",
+  "type": "?"
+}, {
+  "date": "20140524",
+  "country": "Belgique",
+  "deaths": "4",
+  "injuries": "0",
+  "type": "+"
+}]
