@@ -26,11 +26,19 @@ h1 {
   text-align: right;
   padding: .5em .7em;
 }
-.attack__numbers {
-}
-.attack__data {
-  
+.attack__date {
 }
 .attack__country {
-  
+}
+.attack__numbers {
+}
+.attack__deaths,
+.attack__injuries {
+  float: left;
+}
+.attack__deaths {
+  background-color: #d33;
+}
+.attack__injuries {
+  background-color: #ebb;
 }
