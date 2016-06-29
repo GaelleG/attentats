@@ -1,0 +1,22 @@
+{
+  "name": "attentats",
+  "version": "1.0.0",
+  "description": "Terrorist attacks' list",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaelleG/attentats.git"
+  },
+  "author": "Gaelle Gomez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/GaelleG/attentats/issues"
+  },
+  "homepage": "https://github.com/GaelleG/attentats#readme",
+  "devDependencies": {
+    "lodash": "^4.13.1"
+  }
+}
