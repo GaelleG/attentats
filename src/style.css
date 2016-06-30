@@ -15,6 +15,7 @@ h1 {
 .attack {
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 .attack__label,
 .attack__numbers {
@@ -24,7 +25,7 @@ h1 {
 .attack__label {
   border-right: 2px solid #000;
   text-align: right;
-  padding: .5em .7em;
+  padding: 1.1em .7em;
 }
 .attack__date {
 }
@@ -41,4 +42,36 @@ h1 {
 }
 .attack__injuries {
   background-color: #ebb;
+}
+.attack__deaths__label,
+.attack__injuries__label {
+  position: relative;
+  float: left;
+  padding: 0em 0.1em;
+  font-weight: bold;
+  color: #fff;
+  background-color: #000;
+}
+.attack__deaths__label:before,
+.attack__injuries__label:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  border: 0.15em solid #000;
+  border-right-color: transparent;
+}
+.attack__deaths__label {
+  bottom: 1.3em;
+}
+.attack__injuries__label {
+  top: 1.3em;
+}
+.attack__deaths__label:before {
+  top: 100%;
+  border-bottom-color: transparent;
+}
+.attack__injuries__label:before {
+  bottom: 100%;
+  border-top-color: transparent;
 }

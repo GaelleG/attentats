@@ -19,8 +19,12 @@ function addAttackEl(attack) {
     '<div class="attack__country">' + attack.country + '</div>' +
     '</div>' +
     '<div class="attack__numbers">' +
-    '<div class="attack__deaths" style="width:' + (parseInt(attack.deaths.replace(/^\D/, '')) * 100 / maxVictims) + '%">' + attack.deaths + '</div>' +
-    '<div class="attack__injuries" style="width:' + (parseInt(attack.injuries.replace(/^\D/, '')) * 100 / maxVictims) + '%">' + attack.injuries + '</div>' +
+    '<div class="attack__deaths" style="width:' + (parseInt(attack.deaths.replace(/^\D/, '')) * 100 / maxVictims) + '%">' +
+    '<div class="attack__deaths__label">' + attack.deaths + '</div>' +
+    '</div>' +
+    '<div class="attack__injuries" style="width:' + (parseInt(attack.injuries.replace(/^\D/, '')) * 100 / maxVictims) + '%">' +
+    '<div class="attack__injuries__label">' + attack.injuries + '</div>' +
+    '</div>' +
     '</div>';
   chronos.appendChild(el);
 }
